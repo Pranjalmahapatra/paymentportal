@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/paymentportal/static/css/main.897beadb.css",
+    "main.js": "/paymentportal/static/js/main.9b403630.js",
+    "static/media/macbook.jpg": "/paymentportal/static/media/macbook.089bcb15380bf3dda230.jpg",
+    "static/media/mastercard.png": "/paymentportal/static/media/mastercard.e9139db22ab51834ca7f.png",
+    "index.html": "/paymentportal/index.html",
+    "main.897beadb.css.map": "/paymentportal/static/css/main.897beadb.css.map",
+    "main.9b403630.js.map": "/paymentportal/static/js/main.9b403630.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.897beadb.css",
+    "static/js/main.9b403630.js"
+  ]
+}
