@@ -1,0 +1,44 @@
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 46%;
+    padding-top:46px;
+    padding-bottom:46px;
+  }
+
+  .form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2px;
+    text-align: left; /* Align text to the left within the form group */
+  }
+  
+  label {
+    font-size: 16px;
+    font-weight: 300;
+  }
+  
+  input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 80%;
+    font-size: 16px;
+  }
+  
+  button[type="submit"] {
+    width: 90%;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 25px; /* Rounded button */
+    background-color: #4caf50; /* Green color */
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #45a049; /* Darker green on hover */
+  }
